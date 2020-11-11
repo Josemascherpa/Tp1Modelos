@@ -1,0 +1,114 @@
+﻿  Juego.cpp
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.h(38,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.h(74,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(53,51): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(53,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(131,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(132,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(134,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(135,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(137,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(138,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.cpp(141,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Main.cpp
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.h(38,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.h(74,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Main.cpp(8,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Mira.cpp
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.h(38,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Juego.h(74,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Personajes.cpp
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.h(38,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(128,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(128,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(132,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(132,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(136,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(136,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(140,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(140,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(144,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(144,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generando código...
+C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Tp1 MODELOS\Personajes.cpp(150): warning C4715: 'Personajes::randomPos': no todas las rutas de acceso de control devuelven un valor
+  Tp1 MODELOS.vcxproj -> C:\Users\nacho\OneDrive\Escritorio\Tp1 MODELOS\Debug\Tp1 MODELOS.exe
